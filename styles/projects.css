@@ -16,15 +16,15 @@ a {
 
 @font-face {
   font-family: "pixellari";
-  src: url("/fonts/Pixellari.ttf");
+  src: url("../fonts/Pixellari.ttf");
 }
 @font-face {
   font-family: "indianBold";
-  src: url("/fonts/bitsindiancalligra-Bold.ttf");
+  src: url("../fonts/bitsindiancalligra-Bold.ttf");
 }
 @font-face {
   font-family: "indianRegular";
-  src: url("/fonts/bitsindiancalligra-Regular.ttf");
+  src: url("../fonts/bitsindiancalligra-Regular.ttf");
 }
 
 li {
@@ -156,31 +156,31 @@ li {
   width: 8rem;
 }
 .one {
-  background-image: url("/images/Robocon-2021-logo.png");
+  background-image: url("../images/Robocon-2021-logo.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .two {
-  background-image: url("/images/Capture.PNG");
+  background-image: url("../images/Capture.PNG");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .three {
-  background-image: url("/images/calculator.PNG");
+  background-image: url("../images/calculator.PNG");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .five {
-  background-image: url("/images/tictac.PNG");
+  background-image: url("../images/tictac.PNG");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .four {
-  background-image: url("/images/b5e5ecb395304ec1b341bf7668a158d0_0.jpeg");
+  background-image: url("../images/b5e5ecb395304ec1b341bf7668a158d0_0.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

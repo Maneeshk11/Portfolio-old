@@ -17,15 +17,15 @@ a {
 
 @font-face {
   font-family: "pixellari";
-  src: url("/fonts/Pixellari.ttf");
+  src: url("../fonts/Pixellari.ttf");
 }
 @font-face {
   font-family: "indianBold";
-  src: url("/fonts/bitsindiancalligra-Bold.ttf");
+  src: url("../fonts/bitsindiancalligra-Bold.ttf");
 }
 @font-face {
   font-family: "indianRegular";
-  src: url("/fonts/bitsindiancalligra-Regular.ttf");
+  src: url("../fonts/bitsindiancalligra-Regular.ttf");
 }
 
 li {
