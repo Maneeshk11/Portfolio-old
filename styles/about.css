@@ -16,15 +16,15 @@ a {
 
 @font-face {
   font-family: "pixellari";
-  src: url("/fonts/Pixellari.ttf");
+  src: url("../fonts/Pixellari.ttf");
 }
 @font-face {
   font-family: "indianBold";
-  src: url("/fonts/bitsindiancalligra-Bold.ttf");
+  src: url("../fonts/bitsindiancalligra-Bold.ttf");
 }
 @font-face {
   font-family: "indianRegular";
-  src: url("/fonts/bitsindiancalligra-Regular.ttf");
+  src: url("../fonts/bitsindiancalligra-Regular.ttf");
 }
 
 li {
@@ -191,19 +191,19 @@ li {
   font-size: 1rem;
 }
 .mahi {
-  background-image: url("/images/mulogo.png");
+  background-image: url("../images/mulogo.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .fiitjee {
-  background-image: url("/images/fiitjee.png");
+  background-image: url("../images/fiitjee.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .silver {
-  background-image: url("/images/silveroaks.jpg");
+  background-image: url("../images/silveroaks.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
